@@ -4,3 +4,4 @@ langchain-ollama
 langgraph
 ddgs
 typing-extensions
+streamlit
