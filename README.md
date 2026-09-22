@@ -1,5 +1,6 @@
 # AI Research Agent
 
+> A LangGraph-based Agentic AI research system that dynamically decides when to use external tools for company, stock, and web research. It implements LLM tool calling, state-based workflows, conditional routing, multi-step tool execution, and research synthesis to transform retrieved information into structured reports with source attribution.
 An agentic AI research assistant built with LangGraph, LangChain, Ollama and Qwen 2.5.
 
 The agent can understand a user's research request, decide which tools are required, perform web searches, collect information and generate a structured research report.
